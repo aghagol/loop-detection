@@ -7,7 +7,7 @@ N. Sunderhauf, F. Dayoub, S. Shirazi, B. Upcroft, and M. Milford, [On the perfor
 
 #### Demo:
 
-We use feature vectors from the `conv3` layer of AlexNet to match each frame of the testing video with a frame in the reference video that is captured on a different day. Videos were captured using a Google Nexus 5 phone. GPS is recorded simultanously on Android. 
+We use feature vectors from the `conv3` layer of AlexNet to match each frame of the testing video with a frame in the reference video that is captured on a different day. Videos were captured using a Google Nexus 5 phone. GPS is recorded simultanously using a dashcam Andriod app. I put a cheap ($5) fisheye lens on Nexus 5 to increase its field of view.
 
  - Matching video frames from a cloudy day to video frames of a sunny day and predicting the location. On the map, big blue circle corresponds to the GPS location that is recorded over each test video frame (ground-truth) and the green star corresponds to the GPS location of the reference video frame (prediction).
 
