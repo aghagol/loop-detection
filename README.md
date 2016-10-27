@@ -1,5 +1,5 @@
 # place-recognition
-Testing [AlexNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet) feature vectors for place recognition
+[AlexNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet) feature vectors for place recognition and loop closing
 
 It has been proposed that feature vectors from AlexNet are robust with respect to appearance changes:
 
