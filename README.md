@@ -1,5 +1,5 @@
-# place-recognition
-[AlexNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet) feature vectors for place recognition and loop closing
+# loop-detection
+[AlexNet](https://github.com/BVLC/caffe/tree/master/models/bvlc_alexnet) feature vectors for loop closing in SLAM
 
 It has been proposed that feature vectors from AlexNet are robust with respect to appearance changes:
 
