@@ -5,7 +5,7 @@ It has been proposed that feature vectors from AlexNet are robust with respect t
 
 N. Sunderhauf, F. Dayoub, S. Shirazi, B. Upcroft, and M. Milford, [On the performance of convnet features for place recognition](https://arxiv.org/abs/1501.04158), arXiv preprint arXiv:1501.04158, 2015.
 
-Look in the folder `PR_bench` for our implementation of the above paper over the [Gardens Point dataset](https://wiki.qut.edu.au/display/cyphy/Day+and+Night+with+Lateral+Pose+Change+Datasets).
+Look in the folder `PR_bench` for our implementation of the above paper over the [Gardens Point dataset](https://wiki.qut.edu.au/display/raq/Day+and+Night+with+Lateral+Pose+Change+Datasets).
 
 #### Demo:
 
